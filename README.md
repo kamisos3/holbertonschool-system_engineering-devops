@@ -9,7 +9,6 @@ The web infrastructure is the foundation that lets websites and web applications
 - [Simple Web Stack](#simplewebstack)
 - [Distributed Web Infrastructure](#distributedwebinfrastructure)
 - [Secured and Monitored Web Infrastructure](#securedandmonitoredwebinfrastructure)
-- [Concepts](#concepts)
 - [Author](#author)
 
 # I - Simple Web Stack
