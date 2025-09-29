@@ -14,7 +14,7 @@ The web infrastructure is the foundation that lets websites and web applications
 # I - Simple Web Stack
 
 - The user makes a HTTP request by typing www.foobar.com
-- The DNS converts the HTTP adress into an IP adress 8.8.8.8 to connect and retrieve the information.
+- The DNS converts the HTTP adress into an IP address 8.8.8.8 to connect and retrieve the information.
 - Ngnix Web Server gets the request to handle it.
 - Servers are computers or systems that distribute data over the network; they host the web server, application server, applications files/codebase and the database.
 - If the content changes in real-time, Ngnix will pass it through the Application Server.
